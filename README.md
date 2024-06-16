@@ -7,5 +7,5 @@ Login,
 Register New Customer,
 Edit old Customer details,
 Search,
-Logout,
+Logout, 
 
